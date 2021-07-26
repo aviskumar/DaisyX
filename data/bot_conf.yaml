@@ -1,0 +1,49 @@
+# DaisyXBot example config
+
+
+# Basic
+TOKEN: "1935111200:AAFOs5Y4S_oZcCR74_JAeCOMbUCYim-mWN8"
+
+# Get they in https://my.telegram.org/
+APP_ID: 1074100
+APP_HASH: "e51aa7c56708e0408d1709349d34e284"
+
+#Generate a telethon str session  with https://repl.it/@SpEcHiDe/GenerateStringSession (telethon one)
+STRING_SESSION: "1BVtsOIUBu2u3ALN6i7CWxl4yBwrlxyVfICbZBKA6n_9H8ZxGzixM2B3BlDga4HZTS_W68q48-eRitkX75kQNO8HmrOYN_-DT7D22kntmu006FAVLoceYSe1ACO5KgbLD9kYkiKlgfnqFFV6dIKtWD6c8ILWOT4VUhOn7m_euJqcDie8qZwYD3iex8C2vdLUNEcZdPKQekIBeRSbyRj2cbvhx6N7CFlxDW31HTus0yL5bpP1y1X5gX1c4qZVsxVEhbxNNgj3t24m8XywHHFjQZtXWCsVoGpEpayo8xvULiQW3fz3b3sT9K3u4xxjGe1tmQ4Cdq5i8olx2wHms8GjRF3cYJgT_foc="
+
+
+MONGO_URI: "mongodb+srv://avish:avish123@cluster0.yfsgw.mongodb.net/myFirstDatabase?retryWrites=true&w=majority"
+
+MONGO_URI2: ""
+MONGO_PORT: 27017
+MONGO_DB': 'DaisyX'
+
+API_PORT': 8080
+
+REDIS_URI: "redis-11604.c282.east-us-mz.azure.cloud.redislabs.com"
+REDIS_PORT: 11604
+REDIS_PASS: "3xqIc3GybDUmx7gnY75b6h3Ew0vk3z87"
+TEMP_MAIL_KEY: ""
+OWNER_ID: 1720705802
+OPERATORS: [1720705802, 00000000]
+SUPPORT_CHAT: -1001595511341
+SUDO_USERS: "1720705802"
+
+UPSTREAM_REPO_URL: "https://github.com/TeamDaisyX/DaisyX-v2.0"
+DATABASE_URL: "postgres://otklifni:Gp406Vfqaq-IkjSqAjImDUMwcUvUYI6Z@hansken.db.elephantsql.com/otklifni"
+VIRUS_API_KEY: "d0826e5f-9501-425f-b589-73491beabb32"
+TIME_API_KEY: ""
+REM_BG_API_KEY: "jfaEVgoRtHB5UGzYWjzCnc14"
+ARQ_API: "EKBRLS-VQDSNM-ESXMVY-ZNTPEY-ARQ"
+CASH_API_KEY: "6d2b509ce7d3e1cd74e9"
+GENIUS_API_TOKEN: "5KKxijr9Tgs1Pl6KGnyGmZNG8YpryaYP-Ol2F9hwC1FyVHYvDM3vQBecLXIN-Rto"
+SW_API: "jtRvQd54XABhuu~ZiGAXLZO_JXwQ2GdLT3l6K71hUBm2RpMFZWNFORZo00DTrlP_"
+IBM_WATSON_CRED_URL: "https://api.eu-gb.speech-to-text.watson.cloud.ibm.com/instances/1d50731a-dec6-441e-ac64-1afc60d111fe"
+IBM_WATSON_CRED_PASSWORD: "YG9xzdgeQX5yD3qgyXdzAKvVlia1g0E098HdBPqIHVyu"
+OPENWEATHERMAP_ID: "70e7eb7c4e4d69bc0d925ec69a6b01f3"
+WOLFRAM_ID: "PTPKRQ-WEJUP5QAL7"
+DEBUG_MODE: False
+LOAD_MODULES: True
+LOGS_CHANNEL_ID: -1001595511341
+ALLOW_FORWARDS_COMMANDS: False
+ALLOW_EXCEL: False
